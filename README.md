@@ -1,4 +1,4 @@
-KFly 0.1 by @Khamael
+KFly 0.1a by @Khamael
 
 An improved autoflight package for LotJ for the Mudlet MUD Client
 
@@ -13,9 +13,9 @@ Features:
 - Autolanding by pad number
 - Autolanding by name of a specific pad, so you can include hidden pads in your route
 - Quick alias for single-planet hops
+- Toggle between ; and ;; command separators to match your preference
 
 Planned Features:
 - Include uncharted sectors in route
 - Option to skip landing per-planet
-
-THIS VERSION IS BROKEN
+- "Bootstraps mode" for when there aren't enough credits to fill the bay
